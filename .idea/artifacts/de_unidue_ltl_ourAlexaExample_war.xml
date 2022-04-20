@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="de.unidue.ltl.ourAlexaExample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>de.unidue.ltl.ourAlexaExample</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="myskill.war">
+      <element id="artifact" artifact-name="de.unidue.ltl.ourAlexaExample:war exploded" />
+    </root>
+  </artifact>
+</component>
