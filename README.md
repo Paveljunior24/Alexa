@@ -40,3 +40,5 @@ ngrok herunterladen/entpacken
 Geben Sie auf der Konsole in diesem Ordner ./ngrok http 8080 (8080-Port des localhost) ein.
 
 Fügen Sie die HTTPS, die Sie erhalten, zu Ihrem Alexa Skill Endpoint hinzu.
+
+Example:https://1ae317b7.ngrok.io/myskill/myrequest
